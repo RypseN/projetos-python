@@ -1,1 +1,1 @@
-
+Esta versão representa a primeira etapa na automação da consolidação de bases de dados. O script foi desenvolvido com o objetivo principal de ganhar produtividade e otimizar uma tarefa manual e demorada. Ele realiza a leitura de múltiplas bases de dados, aplica as primeiras regras de filtragem e as unifica em uma única planilha final.
