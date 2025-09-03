@@ -1,1 +1,1 @@
-
+Esta versão foi uma adaptação necessária para lidar com inconsistências nas bases de dados de origem. Pequenas variações na formatação, como o uso de letras minúsculas nos nomes das colunas e valores, estavam gerando erros na execução do script. Para resolver esse desafio, foi implementada uma etapa de padronização, garantindo que o código funcionasse de forma consistente, independentemente da formatação dos dados de entrada.
