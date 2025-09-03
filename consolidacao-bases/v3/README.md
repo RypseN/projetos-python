@@ -1,1 +1,1 @@
-
+Esta versão do script surgiu de uma necessidade de otimizar o relatório de saída, devido a problemas na entrega de dados do banco de dados de origem. A planilha final estava com um volume excessivo de informações irrelevantes para a análise. O script foi adaptado para excluir itens com estoque igual a zero do relatório, tornando o resultado mais limpo e focado em dados acionáveis, demonstrando a capacidade de adaptar a automação a desafios do negócio.
